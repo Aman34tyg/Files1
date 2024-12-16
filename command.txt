@@ -1,0 +1,1 @@
+ssh nxt@duckotp.duckdns.org -N -R 8000:192.168.1.252:443
